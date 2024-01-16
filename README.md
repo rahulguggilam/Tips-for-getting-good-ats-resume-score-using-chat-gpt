@@ -67,8 +67,9 @@ Systematized Tabulated Unified Updated Utilized Validated Verified
 **Prompt -3**
 
 <br>
+
 ```
-now I will give matter section wise in the resume please add necessary action verbs to it 
+now I will give matter section-wise in the resume please add necessary action verbs to it 
 ```
 <br>
 Now paste your content section-wise in your chat gpt prompt it will give an optimized form of it.<br>
