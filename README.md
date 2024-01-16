@@ -1,13 +1,13 @@
-# Rahulguggilam2003-Tips-for-getting-good-ats-resume-score-using-chat-gpt
+# Tips-for-getting-good-ats-resume-score-using-chat-gpt
 
-Refer the above harvard pdf and use the following prompts to opyimize your resume <br>
+Refer to the above harvard pdf and use the following prompts to optimize your resume <br>
 
 **Prompt -1** 
 
 <br>
 
 ```
-Assume you are a ats score optimized or improver i will provide you the document which contains the procedure to increase the Ats score
+Assume you are an ats score optimized or improver i will provide you the document which contains the procedure to increase the ATS score
 ```
 <br>
 
@@ -68,9 +68,9 @@ Systematized Tabulated Unified Updated Utilized Validated Verified
 
 <br>
 ```
-now i will give matter section wise in the resume please add necessary action verbs to it 
+now I will give matter section wise in the resume please add necessary action verbs to it 
 ```
 <br>
-Now paste your content section wise in your chat gpt prompt it will give an optimized form of it.<br>
+Now paste your content section-wise in your chat gpt prompt it will give an optimized form of it.<br>
 
-**NOTE** : Don't forget to check the action verbs provided by chat gpt are unique if not ask chat gpt again to give new version using different action words
+**NOTE**: Don't forget to check the action verbs provided by chat gpt are unique if not ask chat gpt again to give a new version using different action words
